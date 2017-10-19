@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"Colorsublime",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"One Dark Material - Theme",
+		"Pylinter",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
